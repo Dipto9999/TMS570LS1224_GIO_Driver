@@ -1,4 +1,4 @@
-# TMS570LS1224 GIO Driver Lab
+# TMS570LS1224 GIO Driver
 
 ## Contents
 

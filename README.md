@@ -24,8 +24,7 @@ and <b>USER LED B</b> on the <b>TMS5701224 Hercules Launchpad</b> for Safety Mic
 
 # HALCoGen
 
-The <b>TI</b> library files were generated using the <b>HALCoGen</b> Graphical Tool Software. Since we intend to write our driver from scratch without the use of a <b>Hardware Abstraction Layer</b>, we disable
-The project configuration can be viewed and modified in the [(`GIO_Driver.hcg`)](GIO_Driver.hcg) file.
+The <b>TI</b> library files were generated using the <b>HALCoGen</b> Graphical Tool Software. Since we intend to write our driver from scratch without the use of a <b>Hardware Abstraction Layer</b>, we disable the peripheral drivers on the Launchpad. The project configuration can be viewed and modified in the [(`GIO_Driver.hcg`)](GIO_Driver.hcg) file.
 
 ## Code Composer Studio
 
